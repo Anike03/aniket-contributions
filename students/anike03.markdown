@@ -1,6 +1,6 @@
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-## aniket Sharma
+## Aniket Sharma
 
 ![Aniket Sharma](../images/ani.jpg)
 
